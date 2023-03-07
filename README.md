@@ -1,2 +1,2 @@
 # fork_tset
-UPDATE
+公式がアップデートしたぞー！
